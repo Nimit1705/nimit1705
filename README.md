@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nimit Jain Sogani</h1>
 <h3 align="center">Trying to Code my way through life</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a0/cf/bd/a0cfbd1a1f1306158b4b0ce5e47084f3.jpg">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a0/cf/bd/a0cfbd1a1f1306158b4b0ce5e47084f3.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimit1705&label=Profile%20views&color=0e75b6&style=flat" alt="nimit1705" /> </p>
 
