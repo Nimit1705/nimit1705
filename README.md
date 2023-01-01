@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/ZwJjYnX)](https://nimit1705.io)
+
 <h1 align="center">Hi 👋, I'm Nimit Jain Sogani</h1>
 <h3 align="center">Trying to Code my way through life</h3>
 
