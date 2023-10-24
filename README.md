@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Web-Development, Java, Python**
 
 - 📫 How to reach me **nimitjainsogani17@gmail.com**
-
-- ⚡ Fun fact **I can read code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
