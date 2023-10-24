@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimit1705&label=Profile%20views&color=0e75b6&style=flat" alt="nimit1705" /> </p>
 
-- 🌱 I’m currently learning **Web-Dev, Java**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **python**
 
